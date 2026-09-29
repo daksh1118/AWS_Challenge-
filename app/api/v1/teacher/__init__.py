@@ -1,3 +1,0 @@
-"""
-Teacher Domain API Package.
-"""
